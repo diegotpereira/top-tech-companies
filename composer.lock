@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d2ae95f40f8329f3bc180fa7d7b2c754",
+    "content-hash": "90971d38da1b6f6688360bd5f2b28402",
     "packages": [
         {
             "name": "clue/stream-filter",
@@ -1813,16 +1813,16 @@
         },
         {
             "name": "hwi/oauth-bundle",
-            "version": "dev-master",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hwi/HWIOAuthBundle.git",
-                "reference": "b042ddd"
+                "reference": "fc6192da389669edef33911473acee8cca203bc3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hwi/HWIOAuthBundle/zipball/b042ddd",
-                "reference": "b042ddd",
+                "url": "https://api.github.com/repos/hwi/HWIOAuthBundle/zipball/fc6192da389669edef33911473acee8cca203bc3",
+                "reference": "fc6192da389669edef33911473acee8cca203bc3",
                 "shasum": ""
             },
             "require": {
@@ -1868,7 +1868,6 @@
                 "symfony/property-access": "to use FOSUB integration with this bundle",
                 "symfony/twig-bundle": "to use the Twig hwi_oauth_* functions"
             },
-            "default-branch": true,
             "type": "symfony-bundle",
             "extra": {
                 "branch-alias": {
@@ -9457,9 +9456,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "hwi/oauth-bundle": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
